@@ -59,3 +59,5 @@ Ce projet m'a permis d'apprendre :
 - La validation des données
 - Les bonnes pratiques de sécurité basiques
 - L'organisation d'un projet web
+
+![capture](./public/assets/image.png)
